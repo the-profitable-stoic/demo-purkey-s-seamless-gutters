@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Purkey's Seamless Gutters",
+    "phone": "+13173796086",
+    "category": "gutter installation",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Indianapolis Gutter Experts",
+      "heroSubline": "Protect your home with seamless gutter solutions built for Indiana weather. Reliable installation and lasting performance, guaranteed.",
+      "aboutTitle": "Protecting Indianapolis Homes, One Gutter at a Time",
+      "aboutText": [
+        "Purkey's Seamless Gutters started with a simple goal: to provide Indianapolis homeowners with durable, reliable gutter systems that can withstand our harsh Indiana weather. We're a local team, born and raised right here in Marion County, and we understand the unique challenges our climate poses to your home's foundation.",
+        "We take pride in our meticulous approach to every project. From the initial consultation to the final inspection, we prioritize clear communication, quality workmanship, and lasting results. We use only the highest-grade materials and employ proven installation techniques to ensure your gutters perform flawlessly for years to come.",
+        "We're more than just a gutter company; we're part of the Indianapolis community. We believe in giving back and supporting local initiatives. When you choose Purkey's, you're not just investing in your home, you're investing in the future of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Seamless Gutters",
+          "description": "Eliminate leaks and clogs with our custom-fit seamless gutter systems, designed for optimal water flow."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use heavy-gauge aluminum and copper to ensure your gutters withstand Indiana's extreme weather conditions."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Our experienced team guarantees precise installation for maximum performance and long-term protection."
+        },
+        {
+          "title": "Free Estimates",
+          "description": "Get a clear, upfront quote with no hidden fees. We'll assess your needs and provide the best solution for your home."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Gutter Estimate Today!",
+      "ctaSubline": "Protect your home from water damage. Contact Purkey's Seamless Gutters now for a free, no-obligation consultation."
+    },
+    "services": [
+      {
+        "slug": "seamless-gutter-installation",
+        "name": "Seamless Gutter Installation",
+        "shortDescription": "Custom-fit seamless gutters for superior performance and lasting protection against water damage.",
+        "description": "Our seamless gutter installation service provides Indianapolis homeowners with a superior drainage solution. Unlike traditional gutters with multiple sections, our seamless gutters are custom-made on-site to perfectly fit your home's dimensions. This eliminates seams, the most common point of leaks and clogs, ensuring efficient water flow and preventing costly water damage to your foundation, siding, and landscaping.\n\nWe use only the highest-quality materials, including heavy-gauge aluminum and copper, to withstand Indiana's harsh weather conditions. Our experienced installers employ precise techniques to ensure proper slope, secure attachment, and optimal performance. We offer a variety of colors and styles to complement your home's architecture and enhance its curb appeal.\n\nBefore installation, we conduct a thorough assessment of your home's drainage needs, taking into account roof pitch, landscaping, and local rainfall patterns. We'll recommend the best gutter size and configuration to effectively manage water runoff and protect your property. With Purkey's Seamless Gutters, you can rest assured that your home is protected by a durable, reliable, and aesthetically pleasing gutter system.",
+        "process": [
+          "Step 1: On-site assessment and consultation",
+          "Step 2: Custom gutter fabrication",
+          "Step 3: Precise gutter installation",
+          "Step 4: Final inspection and clean-up"
+        ],
+        "benefits": [
+          "Eliminates leaks and clogs",
+          "Protects foundation and landscaping",
+          "Enhances curb appeal",
+          "Increases home value"
+        ],
+        "faq": [
+          {
+            "question": "How long does gutter installation take?",
+            "answer": "Most installations can be completed in one day, depending on the size and complexity of the project. We'll provide a clear timeline during the initial consultation."
+          },
+          {
+            "question": "What materials do you use for seamless gutters?",
+            "answer": "We primarily use heavy-gauge aluminum, which is durable, rust-resistant, and available in a wide range of colors. We also offer copper gutters for a more premium look and longer lifespan."
+          },
+          {
+            "question": "How do I know what size gutters I need?",
+            "answer": "We'll assess your roof size, pitch, and local rainfall patterns to determine the optimal gutter size for your home. Proper sizing is crucial for effective water management."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-guard-installation",
+        "name": "Gutter Guard Installation",
+        "shortDescription": "Prevent clogs and eliminate gutter cleaning with our durable and effective gutter guard solutions.",
+        "description": "Tired of constantly cleaning out your gutters? Our gutter guard installation service provides a long-term solution to prevent leaves, debris, and pests from clogging your gutters. We offer a variety of gutter guard options to suit your specific needs and budget, including mesh screens, reverse curve systems, and foam inserts.\n\nGutter guards not only eliminate the need for manual cleaning but also protect your gutters from damage caused by accumulated debris. Clogged gutters can lead to water overflow, which can damage your roof, siding, and foundation. By installing gutter guards, you can extend the lifespan of your gutters and protect your home from costly repairs.\n\nOur experienced installers will ensure that your gutter guards are properly installed for optimal performance. We'll assess your existing gutter system and recommend the best gutter guard solution for your home. With our gutter guard installation service, you can enjoy a maintenance-free gutter system and peace of mind knowing that your home is protected from water damage.",
+        "process": [
+          "Step 1: Gutter inspection and cleaning",
+          "Step 2: Gutter guard selection",
+          "Step 3: Professional guard installation",
+          "Step 4: Final inspection"
+        ],
+        "benefits": [
+          "Eliminates gutter cleaning",
+          "Prevents clogs and water damage",
+          "Extends gutter lifespan",
+          "Reduces maintenance costs"
+        ],
+        "faq": [
+          {
+            "question": "What types of gutter guards do you offer?",
+            "answer": "We offer a variety of gutter guard options, including mesh screens, reverse curve systems, and foam inserts. We'll help you choose the best option based on your needs and budget."
+          },
+          {
+            "question": "How much do gutter guards cost?",
+            "answer": "The cost of gutter guards depends on the type of guard and the size of your gutter system. We'll provide a free estimate with a breakdown of all costs."
+          },
+          {
+            "question": "Will gutter guards prevent all debris from entering my gutters?",
+            "answer": "While gutter guards significantly reduce the amount of debris that enters your gutters, some fine particles may still accumulate over time. However, the amount of cleaning required will be drastically reduced."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-repair",
+        "name": "Gutter Repair Services",
+        "shortDescription": "Expert gutter repair to fix leaks, damage, and sagging gutters, restoring proper drainage.",
+        "description": "Indiana weather is tough on gutters. From ice dams in the winter to heavy thunderstorms in the summer, your gutters take a beating. Purkey's Seamless Gutters offers comprehensive gutter repair services to address any issues you may be experiencing. Whether you have leaks, sagging gutters, damaged downspouts, or loose hangers, our team can quickly and effectively restore your gutter system to optimal condition.\n\nWe begin with a thorough inspection to identify the source of the problem and assess the extent of the damage. We then provide a clear and honest estimate for the necessary repairs. Our experienced technicians use high-quality materials and proven techniques to ensure lasting results. We can repair all types of gutters, including aluminum, copper, and vinyl.\n\nDon't let minor gutter issues turn into major problems. Contact Purkey's Seamless Gutters for prompt and reliable gutter repair services. We'll protect your home from water damage and help you avoid costly repairs down the road.",
+        "process": [
+          "Step 1: Thorough gutter inspection",
+          "Step 2: Detailed repair estimate",
+          "Step 3: Professional repair services",
+          "Step 4: Quality assurance check"
+        ],
+        "benefits": [
+          "Fixes leaks and prevents water damage",
+          "Restores proper drainage",
+          "Extends gutter lifespan",
+          "Saves money on costly repairs"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my gutters need repair?",
+            "answer": "Common signs of gutter damage include leaks, sagging gutters, damaged downspouts, and overflowing water. If you notice any of these issues, it's important to have your gutters inspected by a professional."
+          },
+          {
+            "question": "Can you repair gutters in the winter?",
+            "answer": "Yes, we offer gutter repair services year-round. However, weather conditions may affect the timeline and complexity of the repairs."
+          },
+          {
+            "question": "How long do gutter repairs typically last?",
+            "answer": "The lifespan of gutter repairs depends on the extent of the damage and the quality of the materials used. We use high-quality materials and proven techniques to ensure lasting results."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning Services",
+        "shortDescription": "Professional gutter cleaning to remove debris and ensure proper water flow, preventing water damage.",
+        "description": "Purkey's Seamless Gutters provides thorough and reliable gutter cleaning services to keep your gutters functioning properly. Clogged gutters can lead to a host of problems, including water damage to your roof, siding, and foundation. Our experienced technicians will remove all debris from your gutters and downspouts, ensuring proper water flow and preventing costly repairs.\n\nWe use safe and effective cleaning methods to remove leaves, twigs, dirt, and other debris from your gutters. We also inspect your gutters for any signs of damage and recommend necessary repairs. Our gutter cleaning services are available on a one-time or recurring basis.\n\nProtect your home from water damage with regular gutter cleaning from Purkey's Seamless Gutters. Contact us today to schedule your appointment.",
+        "process": [
+          "Step 1: Gutter inspection",
+          "Step 2: Debris removal",
+          "Step 3: Downspout clearing",
+          "Step 4: Final inspection"
+        ],
+        "benefits": [
+          "Prevents water damage",
+          "Ensures proper drainage",
+          "Extends gutter lifespan",
+          "Avoids costly repairs"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall. However, if you live in an area with heavy tree cover, you may need to clean them more frequently."
+          },
+          {
+            "question": "Can I clean my gutters myself?",
+            "answer": "While you can clean your gutters yourself, it can be a dangerous and time-consuming task. Our professional gutter cleaning services are safe, efficient, and affordable."
+          },
+          {
+            "question": "What happens if I don't clean my gutters?",
+            "answer": "Clogged gutters can lead to water damage to your roof, siding, and foundation. They can also attract pests and create a breeding ground for mold and mildew."
+          }
+        ]
+      },
+      {
+        "slug": "downspout-installation-repair",
+        "name": "Downspout Installation & Repair",
+        "shortDescription": "Proper downspouts direct water away from your foundation. We install and repair for optimal drainage.",
+        "description": "Downspouts are a critical component of your gutter system, responsible for directing water away from your foundation. Damaged or improperly installed downspouts can lead to water pooling around your foundation, causing cracks, leaks, and other structural problems. Purkey's Seamless Gutters offers expert downspout installation and repair services to ensure proper drainage and protect your home.\n\nWe can install new downspouts, replace damaged downspouts, and repair existing downspouts. We also offer downspout extensions to direct water further away from your foundation. Our experienced technicians will ensure that your downspouts are properly installed and functioning optimally.\n\nProtect your foundation from water damage with professional downspout installation and repair from Purkey's Seamless Gutters. Contact us today to schedule your appointment.",
+        "process": [
+          "Step 1: Assess drainage needs",
+          "Step 2: Install new downspouts or repair existing ones",
+          "Step 3: Install downspout extensions (if needed)",
+          "Step 4: Verify proper drainage"
+        ],
+        "benefits": [
+          "Protects foundation from water damage",
+          "Ensures proper drainage",
+          "Prevents basement flooding",
+          "Extends foundation lifespan"
+        ],
+        "faq": [
+          {
+            "question": "Why are downspouts important?",
+            "answer": "Downspouts are essential for directing water away from your foundation, preventing water damage and structural problems."
+          },
+          {
+            "question": "How far should downspouts extend from the foundation?",
+            "answer": "Downspouts should extend at least 4-6 feet away from the foundation to ensure proper drainage."
+          },
+          {
+            "question": "Can you repair damaged downspouts?",
+            "answer": "Yes, we can repair damaged downspouts, including leaks, cracks, and dents."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-fascia-repair",
+        "name": "Soffit & Fascia Repair",
+        "shortDescription": "Protect your roof and attic with expert soffit and fascia repair services.",
+        "description": "Soffit and fascia play a crucial role in protecting your roof and attic from moisture, pests, and the elements. Damaged or deteriorated soffit and fascia can lead to water damage, wood rot, and pest infestations. Purkey's Seamless Gutters offers expert soffit and fascia repair services to keep your home protected.\n\nWe can repair or replace damaged soffit and fascia, ensuring proper ventilation and preventing water damage. Our experienced technicians use high-quality materials and proven techniques to ensure lasting results. We'll also inspect your roof for any signs of damage and recommend necessary repairs.\n\nProtect your home from the elements with professional soffit and fascia repair from Purkey's Seamless Gutters. Contact us today to schedule your appointment.",
+        "process": [
+          "Step 1: Inspection of soffit and fascia",
+          "Step 2: Repair or replacement of damaged areas",
+          "Step 3: Sealing and painting (if needed)",
+          "Step 4: Verification of proper ventilation"
+        ],
+        "benefits": [
+          "Protects roof and attic",
+          "Prevents water damage",
+          "Prevents pest infestations",
+          "Improves ventilation"
+        ],
+        "faq": [
+          {
+            "question": "What is soffit and fascia?",
+            "answer": "Soffit is the material that covers the underside of your roof overhang, while fascia is the vertical board that runs along the edge of your roof. Both play a crucial role in protecting your roof and attic."
+          },
+          {
+            "question": "How do I know if my soffit and fascia need repair?",
+            "answer": "Common signs of damage include water stains, wood rot, and pest infestations. If you notice any of these issues, it's important to have your soffit and fascia inspected by a professional."
+          },
+          {
+            "question": "What materials do you use for soffit and fascia?",
+            "answer": "We use a variety of materials for soffit and fascia, including wood, vinyl, and aluminum. We'll recommend the best material based on your needs and budget."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Carmel",
+        "slug": "carmel-in",
+        "state": "IN",
+        "content": "Purkey's Seamless Gutters is proud to offer our expert gutter installation and repair services to the residents of Carmel, Indiana. Known for its upscale 1980s-2000s developments and beautiful neighborhoods, Carmel homes require durable and aesthetically pleasing gutter systems to protect them from the elements. We understand the specific needs of Carmel homeowners and offer a wide range of gutter styles and materials to complement your home's architecture. \n\nWith Carmel's cold winters, including snow and ice, it's essential to have a gutter system that can handle the weight and prevent ice dams. Purkey's Seamless Gutters provides solutions designed to withstand the harsh Indiana winters, ensuring your home remains protected year-round. From seamless aluminum gutters to gutter guards that prevent clogs, we have the expertise to keep your home safe from water damage.",
+        "localContext": "Carmel's distinctive architecture, featuring many homes built between the 1980s and 2000s, requires careful consideration when choosing gutter styles and materials.",
+        "nearbyAreas": [
+          "Fishers",
+          "Westfield",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "Fishers",
+        "slug": "fishers-in",
+        "state": "IN",
+        "content": "Purkey's Seamless Gutters is dedicated to providing top-quality gutter services to the growing community of Fishers, Indiana. Characterized by its newer 1990s-2020s planned communities, Fishers boasts a variety of home styles, each requiring a tailored gutter solution. We offer a comprehensive range of gutter options to match any architectural design, ensuring your home is both protected and visually appealing.\n\nGiven Fishers' climate, which includes cold winters with snow and ice, a robust gutter system is crucial for preventing water damage. Purkey's Seamless Gutters specializes in installing and maintaining gutters that can withstand the Indiana elements, safeguarding your home from potential issues like foundation damage and basement flooding. We provide seamless gutters, gutter guards, and other solutions to keep your home safe and dry.",
+        "localContext": "Fishers' development boom from the 1990s onward has resulted in many planned communities, each with unique architectural styles that require specific gutter solutions.",
+        "nearbyAreas": [
+          "Carmel",
+          "Noblesville",
+          "McCordsville"
+        ]
+      },
+      {
+        "city": "Noblesville",
+        "slug": "noblesville-in",
+        "state": "IN",
+        "content": "Purkey's Seamless Gutters offers expert gutter services to the residents of Noblesville, Indiana. With its historic Courthouse Square area homes and growing residential areas, Noblesville presents a diverse range of gutter needs. We are experienced in working with both older and newer homes, providing customized gutter solutions to protect your property.\n\nNoblesville experiences cold winters with snow and ice, making a reliable gutter system essential. Purkey's Seamless Gutters provides durable and efficient gutter installations and repairs to withstand the harsh Indiana climate. From seamless aluminum gutters to gutter guards that prevent clogs, we ensure your home is protected from water damage year-round.",
+        "localContext": "Noblesville's blend of historic homes around Courthouse Square and newer developments requires a nuanced approach to gutter selection and installation.",
+        "nearbyAreas": [
+          "Fishers",
+          "Carmel",
+          "Cicero"
+        ]
+      },
+      {
+        "city": "Indianapolis",
+        "slug": "indianapolis-in",
+        "state": "IN",
+        "content": "Purkey's Seamless Gutters proudly serves the greater Indianapolis area, providing high-quality gutter installation, repair, and maintenance services. As the heart of Indiana, Indianapolis features a diverse range of homes and businesses, each with unique gutter needs. We offer a wide selection of gutter styles and materials to suit any property, ensuring optimal performance and aesthetic appeal.\n\nIndianapolis experiences all four seasons, including cold, snowy winters. A properly functioning gutter system is essential to protect your property from water damage caused by rain, snow, and ice. Purkey's Seamless Gutters provides durable and reliable gutter solutions that can withstand the elements and keep your home safe and dry.",
+        "localContext": "Indianapolis' diverse architecture, from historic homes to modern buildings, demands a versatile approach to gutter design and installation.",
+        "nearbyAreas": [
+          "Carmel",
+          "Fishers",
+          "Greenwood"
+        ]
+      },
+      {
+        "city": "Zionsville",
+        "slug": "zionsville-in",
+        "state": "IN",
+        "content": "Purkey's Seamless Gutters is committed to providing Zionsville, Indiana, with exceptional gutter services. Known for its charming village atmosphere and well-maintained homes, Zionsville requires gutter systems that are both functional and aesthetically pleasing. We offer a variety of gutter styles and materials to complement the unique character of Zionsville homes.\n\nZionsville experiences cold winters with significant snowfall, making a robust gutter system essential for protecting your home. Purkey's Seamless Gutters specializes in installing and maintaining gutters that can withstand the harsh Indiana climate, preventing ice dams and water damage. We provide seamless gutters, gutter guards, and other solutions to ensure your home remains safe and dry throughout the year.",
+        "localContext": "Zionsville's unique architectural style, with its emphasis on traditional and well-maintained homes, requires a careful approach to gutter selection and installation.",
+        "nearbyAreas": [
+          "Carmel",
+          "Whitestown",
+          "Lebanon"
+        ]
+      },
+      {
+        "city": "Westfield",
+        "slug": "westfield-in",
+        "state": "IN",
+        "content": "Purkey's Seamless Gutters is pleased to offer our professional gutter services to the growing community of Westfield, Indiana. With its mix of established neighborhoods and new developments, Westfield requires gutter systems that are both durable and visually appealing. We provide a wide range of gutter options to suit any home style, ensuring optimal protection and curb appeal.\n\nWestfield experiences cold winters with snow and ice, making a reliable gutter system crucial for preventing water damage. Purkey's Seamless Gutters specializes in installing and maintaining gutters that can withstand the Indiana elements, safeguarding your home from potential issues like foundation damage and basement flooding. We offer seamless gutters, gutter guards, and other solutions to keep your home safe and dry.",
+        "localContext": "Westfield's rapid growth and diverse housing styles require a flexible approach to gutter installation and maintenance.",
+        "nearbyAreas": [
+          "Carmel",
+          "Zionsville",
+          "Sheridan"
+        ]
+      },
+      {
+        "city": "Greenwood",
+        "slug": "greenwood-in",
+        "state": "IN",
+        "content": "Purkey's Seamless Gutters is dedicated to providing Greenwood, Indiana, with top-quality gutter services. As a vibrant suburb of Indianapolis, Greenwood features a mix of residential and commercial properties, each with unique gutter needs. We offer a comprehensive range of gutter solutions to suit any property, ensuring optimal performance and aesthetic appeal.\n\nGreenwood experiences all four seasons, including cold, snowy winters. A properly functioning gutter system is essential to protect your property from water damage caused by rain, snow, and ice. Purkey's Seamless Gutters provides durable and reliable gutter solutions that can withstand the elements and keep your home safe and dry.",
+        "localContext": "Greenwood's mix of residential and commercial properties requires a versatile approach to gutter design and installation.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Franklin",
+          "Bargersville"
+        ]
+      },
+      {
+        "city": "Brownsburg",
+        "slug": "brownsburg-in",
+        "state": "IN",
+        "content": "Purkey's Seamless Gutters proudly serves Brownsburg, Indiana, offering expert gutter installation, repair, and maintenance services. Brownsburg's growing community and diverse housing styles require reliable and efficient gutter systems. We provide a wide range of gutter options to suit any home, ensuring optimal protection from the elements.\n\nBrownsburg, like much of Indiana, experiences cold winters with snow and ice. A properly functioning gutter system is crucial for preventing water damage caused by these conditions. Purkey's Seamless Gutters offers durable and dependable gutter solutions designed to withstand the Indiana climate, keeping your home safe and dry year-round.",
+        "localContext": "Brownsburg's expanding residential areas require a focus on efficient and reliable gutter systems to protect homes from water damage.",
+        "nearbyAreas": [
+          "Avon",
+          "Plainfield",
+          "Zionsville"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alice M.",
+        "rating": 5,
+        "service": "Seamless Gutter Installation",
+        "text": "Purkey's Seamless Gutters did an amazing job installing new gutters on my home in Broad Ripple. The crew was professional, efficient, and the gutters look fantastic! I especially appreciate how they took the time to explain the entire process and answer all of my questions. Highly recommend!",
+        "date": "2025-05-15"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 4,
+        "service": "Gutter Guard Installation",
+        "text": "I hired Purkey's to install gutter guards on my house in Meridian-Kessler. The installation was quick and easy, and I haven't had to clean my gutters since! The only reason I didn't give them 5 stars is that the initial estimate was slightly lower than the final price due to some unforeseen issues with my existing gutters.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "service": "Gutter Repair Services",
+        "text": "After a particularly bad storm, my gutters were hanging off my house. Purkey's Seamless Gutters came out quickly and repaired them. They were professional, courteous, and the price was very reasonable. I'm so glad I called them!",
+        "date": "2025-03-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "Purkey's Seamless Gutters did a fantastic job cleaning my gutters. They were thorough, efficient, and left my yard spotless. I'll definitely be using them again in the future.",
+        "date": "2025-02-01"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 5,
+        "service": "Downspout Installation & Repair",
+        "text": "We had a major issue with water pooling around our foundation after heavy rains. Purkey's Seamless Gutters installed new downspout extensions that solved the problem completely. The team was knowledgeable and professional, and we couldn't be happier with the results.",
+        "date": "2025-01-18"
+      },
+      {
+        "name": "Mike R.",
+        "rating": 4,
+        "service": "Seamless Gutter Installation",
+        "text": "Good experience overall. Team was on time, worked hard and did high quality work. Only ding is that it took a couple of weeks longer to schedule than initially estimated due to weather.",
+        "date": "2024-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Purkey's Gutters: Indianapolis Gutter Installation",
+        "description": "Seamless gutters, gutter guards, and expert repair in Indianapolis. Get a free quote! Protect your home from water damage with Purkey's."
+      },
+      "about": {
+        "title": "About Purkey's Seamless Gutters | Indianapolis, IN",
+        "description": "Learn about Purkey's Seamless Gutters, your trusted Indianapolis gutter installation and repair experts. Quality workmanship, guaranteed."
+      },
+      "services": {
+        "title": "Gutter Services | Purkey's Gutters Indianapolis",
+        "description": "Seamless gutter installation, gutter guards, repair, and cleaning in Indianapolis. Protect your home from water damage. Free estimates!"
+      },
+      "contact": {
+        "title": "Contact Purkey's Gutters | Indianapolis, IN",
+        "description": "Contact Purkey's Seamless Gutters for a free gutter estimate in Indianapolis. Call +13173796086 or fill out our online form."
+      },
+      "reviews": {
+        "title": "Purkey's Gutters Reviews | Indianapolis, IN",
+        "description": "Read reviews for Purkey's Seamless Gutters in Indianapolis. See why homeowners trust us for gutter installation, repair, and cleaning."
+      },
+      "service-areas": {
+        "title": "Purkey's Gutters Service Areas | Indianapolis, IN",
+        "description": "Purkey's Seamless Gutters provides gutter services throughout Indianapolis and surrounding areas. Serving Carmel, Fishers, Noblesville."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "seamless-gutter-installation": "/images/service-seamless-gutter-installation.webp",
+      "gutter-guard-installation": "/images/service-gutter-guard-installation.webp",
+      "gutter-repair": "/images/service-gutter-repair.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "downspout-installation-repair": "/images/service-downspout-installation-repair.webp",
+      "soffit-fascia-repair": "/images/service-soffit-fascia-repair.webp"
+    },
+    "servicesResponsive": {
+      "seamless-gutter-installation": {
+        "src": "/images/service-seamless-gutter-installation.webp",
+        "srcset": "/images/service-seamless-gutter-installation-400w.webp 400w, /images/service-seamless-gutter-installation-800w.webp 800w, /images/service-seamless-gutter-installation-1200w.webp 1200w, /images/service-seamless-gutter-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-guard-installation": {
+        "src": "/images/service-gutter-guard-installation.webp",
+        "srcset": "/images/service-gutter-guard-installation-400w.webp 400w, /images/service-gutter-guard-installation-800w.webp 800w, /images/service-gutter-guard-installation-1200w.webp 1200w, /images/service-gutter-guard-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-repair": {
+        "src": "/images/service-gutter-repair.webp",
+        "srcset": "/images/service-gutter-repair-400w.webp 400w, /images/service-gutter-repair-800w.webp 800w, /images/service-gutter-repair-1200w.webp 1200w, /images/service-gutter-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "downspout-installation-repair": {
+        "src": "/images/service-downspout-installation-repair.webp",
+        "srcset": "/images/service-downspout-installation-repair-400w.webp 400w, /images/service-downspout-installation-repair-800w.webp 800w, /images/service-downspout-installation-repair-1200w.webp 1200w, /images/service-downspout-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-fascia-repair": {
+        "src": "/images/service-soffit-fascia-repair.webp",
+        "srcset": "/images/service-soffit-fascia-repair-400w.webp 400w, /images/service-soffit-fascia-repair-800w.webp 800w, /images/service-soffit-fascia-repair-1200w.webp 1200w, /images/service-soffit-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
